@@ -1,4 +1,4 @@
-# **Hyperblog** :fa-play-circle:
+# **Hyperblog** 
 Es un repositorio de prueba para toda la familia
 >Me gusta programar y esto es una prueba sobre la edicion de mi readme.md
 
