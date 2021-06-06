@@ -14,5 +14,6 @@ Es un repositorio de prueba para toda la familia
 >Lenguaje de hoja de estilos como:
 >- CSS 3
 
+* Prueba para el git stash
 * Creado por Leiner
 Lo que utilice para realizar este texto como muchas opciones fue esta pagina: [Pandao.github](https://pandao.github.io/editor.md/en.html "Pandao.github")
